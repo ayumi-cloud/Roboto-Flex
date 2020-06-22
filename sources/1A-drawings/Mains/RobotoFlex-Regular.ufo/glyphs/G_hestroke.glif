@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghestroke" format="2">
+	<unicode hex="0492"/>
+	<advance width="1077"/>
+	<outline>
+		<contour>
+			<point x="20" y="626" type="line"/>
+			<point x="20" y="792" type="line"/>
+			<point x="625" y="792" type="line"/>
+			<point x="625" y="626" type="line"/>
+		</contour>
+		<component base="Ghe"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dje" format="2">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="644" y="818" type="line"/>
+			<point x="758" y="831"/>
+			<point x="918" y="850"/>
+			<point x="1050" y="850" type="qcurve" smooth="yes"/>
+			<point x="1312" y="850"/>
+			<point x="1530" y="619"/>
+			<point x="1530" y="427" type="qcurve" smooth="yes"/>
+			<point x="1530" y="406" type="line" smooth="yes"/>
+			<point x="1530" y="191"/>
+			<point x="1299" y="0"/>
+			<point x="1135" y="0" type="qcurve" smooth="yes"/>
+			<point x="1127" y="0" type="line"/>
+			<point x="1127" y="182" type="line"/>
+			<point x="1135" y="182" type="line" smooth="yes"/>
+			<point x="1246" y="182"/>
+			<point x="1338" y="295"/>
+			<point x="1338" y="404" type="qcurve" smooth="yes"/>
+			<point x="1338" y="424" type="line" smooth="yes"/>
+			<point x="1338" y="572"/>
+			<point x="1185" y="692"/>
+			<point x="1034" y="692" type="qcurve" smooth="yes"/>
+			<point x="908" y="692"/>
+			<point x="758" y="673"/>
+			<point x="644" y="660" type="qcurve"/>
+		</contour>
+	</outline>
+</glyph>
