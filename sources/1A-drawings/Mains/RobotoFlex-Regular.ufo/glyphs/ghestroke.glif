@@ -3,13 +3,8 @@
 	<unicode hex="0493"/>
 	<advance width="886"/>
 	<outline>
-		<contour>
-			<point x="40" y="437" type="line"/>
-			<point x="40" y="582" type="line"/>
-			<point x="660" y="582" type="line"/>
-			<point x="660" y="437" type="line"/>
-		</contour>
 		<component base="ghe" xOffset="22"/>
+		<component base="horizontalbarlc" xOffset="10" yOffset="-220"/>
 	</outline>
 	<lib>
 		<dict>
