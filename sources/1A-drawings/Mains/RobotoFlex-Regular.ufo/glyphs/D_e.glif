@@ -1,45 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="De" format="2">
-<<<<<<< HEAD
-	<unicode hex="0414"/>
-	<advance width="1472"/>
-	<outline>
-		<contour>
-			<point x="1270" y="-290" type="line"/>
-			<point x="1270" y="0" type="line"/>
-			<point x="182" y="0" type="line"/>
-			<point x="182" y="-290" type="line"/>
-			<point x="10" y="-290" type="line"/>
-			<point x="10" y="158" type="line"/>
-			<point x="1442" y="158" type="line"/>
-			<point x="1442" y="-290" type="line"/>
-		</contour>
-		<contour>
-			<point x="258" y="657" type="qcurve" smooth="yes"/>
-			<point x="310" y="1456" type="line"/>
-			<point x="1262" y="1456" type="line"/>
-			<point x="1262" y="0" type="line"/>
-			<point x="1070" y="0" type="line"/>
-			<point x="1070" y="1298" type="line"/>
-			<point x="479" y="1298" type="line"/>
-			<point x="438" y="659" type="line" smooth="yes"/>
-			<point x="424" y="447"/>
-			<point x="374" y="205"/>
-			<point x="349" y="139" type="qcurve"/>
-			<point x="146" y="139" type="line"/>
-			<point x="186" y="209"/>
-			<point x="245" y="457"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.868,0.7015,1</string>
-		</dict>
-	</lib>
-=======
   <advance width="1472"/>
-  <unicode hex="0414"/>
   <outline>
     <contour>
       <point x="1070" y="158" type="line"/>
@@ -78,8 +39,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.868,0.7015,1</string>
+      <string>0.9882,0.0471,0.2471,1</string>
     </dict>
   </lib>
->>>>>>> ee5658374e06471b6b9d375a07a741a9c46c736d
 </glyph>
